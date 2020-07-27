@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Perkenalan</string>
+    <string name="Name">Nama</string>
+    <string name="birthday">Tempat Tanggal Lahir</string>
+    <string name="Address">Alamat</string>
+    <string name="Phone">Nomer Telpon</string>
+    <string name="Hobby">Hobi</string>
+    <string name="Wish">Keinginan</string>
+    <string name="Got">Lihat</string>
+</resources>
